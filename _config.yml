@@ -2,8 +2,8 @@
 title: immsrini 
 description: 
 favicon: assets/img/favicon.ico
-baseurl: ""
-url: ""
+baseurl: http://forkmsrini.github.io/iCard-Resume
+url: http://forkmsrini.github.io/iCard-Resume
 rss_url: /pages/atom.xml
 
 # Build settings

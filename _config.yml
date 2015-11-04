@@ -1,79 +1,114 @@
 # Site settings
-title: Dong Liang's CV
-description: ddbullfrog's CV
-favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/iCard-Resume
-url: https://ddbullfrog.github.io/iCard-Resume
-rss_url: /iCard-Resume/pages/atom.xml
+title: immsrini 
+description: 
+favicon: assets/img/favicon.ico
+baseurl: ""
+url: ""
+rss_url: /pages/atom.xml
 
 # Build settings
 markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Mukundhan Srinivasan
+  title: 
+  address: 
+  email: msrini@marketlearning.io
+  link: http://forkmsrini.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /iCard-Resume/assets/img/avatar.JPG
+  github: forkmsrini
+  linkedin: mukundhansrinivasan
+  twitter: immsrini
+  gavatar: ~/assets/img/jetpacktocat.png
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      company: Nanyang Technological University
+      location: Singapore
+      title: Researcher
+      started: 2015
+      duration: (2015 - Today)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
+      company: TheThingsCloud | Market Learning Labs | Latent Machines | Forget2Remember
+      location: Bangalore, India
+      title: Founding & Technical Roles
+      started: 2015
+      duration: (December 2014 - Today)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
+      company: Robert Bosch Center of Cyberphysical Systems (RBCCPS), Indian Institute of Science
+      location: Bangalore, India
+      title: Research Assistant
+      started: 2015
+      duration: (July 2015 - November 2015)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work4:
+      company: Medical Intelligence and Language Engineering Lab (MILE), Indian Institute Of Science
+      location: Bangalore, India
+      title: Research Assistant
+      started: 2013
+      duration: (June 2013 - March 2015)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work5:
+      company: IEEE
+      location: Bangalore, India
+      title: Volunteer
+      started: 2010
+      duration: (2010 - Today)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
+      organization: Stanford Graduate Business School
+      degree: Ignite Scholar
+      major: Business Management
+      started: 2015
+      duration: (2016)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - education2:
+      organization: Anna University
       degree: Bachelor
+      major: Electronics and Communication Engineering
+      started: 2009
+      duration: (August 2009 - May 2013)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - education3:
+      organization: NIIT
+      degree: Associate
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      started: 2009
+      duration: (July 2009 - March 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
-      proficiency: Professional
+      proficiency: Fluent
+    - language2:
+      name: Tamil
+      proficiency: Native
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Kannada
+      proficiency: Native
+    - language4:
+      name: Sanskrit
+      proficiency: Limited
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
+      name: Python
       percentage: 90%
+    - skill2:
+      name: C/C++
+      percentage: 85%
     - skill3:
       name: JavaScript
-      percentage: 80%
+      percentage: 60%
     - skill4:
-      name: AngularJS
-      percentage: 80%
+      name: Numpy, Scipy, Matplotlib, Sklearn
+      percentage: 85%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: HTML, CSS, (MEAN) stack
+      percentage: 70%
+    - skill6:
+      name: LaTeX and MS Office Suite
+      percentage: 94%
+

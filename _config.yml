@@ -23,40 +23,40 @@ author:
   gavatar: ~/assets/img/jetpacktocat.png
   workHistory:
     - work1:
-      company: Nanyang Technological University
-      location: Singapore
-      title: Researcher
-      started: 2015
-      duration: (2015 - Today)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: TheThingsCloud | Market Learning Labs | Latent Machines | Forget2Remember
+      company: Market Learning Labs
       location: Bangalore, India
-      title: Founding & Technical Roles
+      title: Founder & CEO
       started: 2015
       duration: (December 2014 - Today)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: MLLabs is a Deep Learning for enterprises company that is developing a framework that is briding the gap between preception and context. We are embarked upon contributing towards developing assistive machine intelligence that enables humans to concentrate on higher level tasks. 
+    - work2:
+      company: Deep Learning Bangalore
+      location: Bangalore, India
+      title: Organiser
+      started: 2015
+      duration: (November 2015 - Today)
+      description: The Deep Learning Bangalore (DLBLR) is an open platform for people to share knowledge, practices, research, applications and critiques of deep learning. The aim of this group is to bring together people interested in the family of machine learning methods that are concerned with learning distributed, hierarchical representations.
     - work3:
-      company: Robert Bosch Center of Cyberphysical Systems (RBCCPS), Indian Institute of Science
+      company: Robert Bosch Center of Cyberphysical Systems (RBCCPS), Indian Institute of Science (IISc)
       location: Bangalore, India
       title: Research Assistant
       started: 2015
-      duration: (July 2015 - November 2015)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (July 2015 - October 2015)
+      description: The Robert Bosch Centre for Cyber Physical Systems, is an interdisciplinary research centre at the  Indian Institute of Science , Bangalore. The centre was established in 2011 with a philanthropic grant from the  Robert Bosch Foundation. The center pursues applied research with a focus on utilizing the advances in Sensing, Communication and Data Analytics Technologies to address key challenges in the verticals of Water, Healthcare and Energy.
     - work4:
-      company: Medical Intelligence and Language Engineering Lab (MILE), Indian Institute Of Science
+      company: Medical Intelligence and Language Engineering Lab (MILE), Indian Institute Of Science (IISc)
       location: Bangalore, India
       title: Research Assistant
       started: 2013
       duration: (June 2013 - March 2015)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: MILE is housed in the Department of Electrical Engineering, Indian Institute of Science. The lab is one of the premier research centers in India focusing on a wide range of areas such as Machine Listening, Medical Image Processing, Document Image Analysis and Recognition, Online handwriting recognition, Text to Speech Synthesis in Indian languages and Natural language processing. The lab is under Prof. A. G. Ramakrishnan.
     - work5:
       company: IEEE
       location: Bangalore, India
       title: Volunteer
       started: 2010
       duration: (2010 - Today)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: IEEE stands for the "Institute of Electrical and Electronics Engineers". The association is chartered under this full legal name. IEEE's membership has long been composed of engineers and scientists. Allied professionals who are members include computer scientists, software developers, information technology professionals, physicists, and medical doctors, in addition to IEEE's electrical and electronics engineering core. For this reason the organization no longer goes by the full name, except on legal business documents, and is referred to simply as IEEE. The IEEE is dedicated to advancing technological innovation and excellence. It has about 430,000 members in about 160 countries.
   educationHistory:
     - education1:
       organization: Stanford Graduate Business School
@@ -71,14 +71,14 @@ author:
       major: Electronics and Communication Engineering
       started: 2009
       duration: (August 2009 - May 2013)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: This bachelor's degree is a traditional four-years long program that spanned from 2009 to 2013. The bachelor's in engineering is a down right rigorous and demanding degree. Courses covered include Electron Devices, Circuit Analysis Syllabus, Engineering graphics, Circuit Theory, electrical engineering and instrumentation, digital electronics, signals and systems, communication theory, electromagnetic fields, linear integrated circuits, control system engineering, digital communication, digital signal processing, transmission lines and waveguides, microprocessor and microcontroller, computer architecture, computer networks, VLSI design, antenna and wave propagation, RF and microwave engineering, optical communication and networks, wireless communication, medical electronics, satellite communication, and digital image processing. In addition to these, four courses of engineering mathematics that included calculus, probability and random process. A bachelor's thesis is required to be submitted to complete the degree.
     - education3:
       organization: NIIT
       degree: Associate
       major: Software Engineering
       started: 2009
       duration: (July 2009 - March 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: This associate degree primarily focused on developing and enhancing skill to facilitate better software development and engineering. The courses/modules covered were basics of OOP with languages like C and C++. This was followed by an advanced C# development module while parallelly learning to program in Java. Application building frameworks like ASP.NET and J@EE/J2SE were taught through multiple hands-on sessions. Database modules like MS-SQL were used to drive back-end operations. The program requires a final submission of a capstone project developed from scratch. 
   languages:
     - language1:
       name: English
@@ -100,15 +100,17 @@ author:
       name: C/C++
       percentage: 85%
     - skill3:
-      name: JavaScript
-      percentage: 60%
+      name: Java
+      percentage: 65%
     - skill4:
       name: Numpy, Scipy, Matplotlib, Sklearn
       percentage: 85%
     - skill5:
-      name: HTML, CSS, (MEAN) stack
-      percentage: 70%
+      name: HTML, CSS, JavaScript
+      percentage: 60%
     - skill6:
       name: LaTeX and MS Office Suite
       percentage: 94%
+
+ 
 
